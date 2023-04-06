@@ -1,0 +1,19 @@
+
+body {
+    margin: 20px;
+}
+#vis {
+    margin-bottom : 1em;
+}
+
+p{
+    margin-left: 140px;
+}
+
+h1 {
+    margin-left: 180px;
+}
+
+.rectangle.hover {
+    transform: translateX(-25px) scale(1.2);
+}
